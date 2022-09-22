@@ -1,6 +1,6 @@
 **Atividades do Curso EBAC**
 
-[tópico](EBAC_Profissao_Cientista_de_Dados/README.md)**Profissão: Cientista de Dados**
+**Profissão: Cientista de Dados**
 
 - Módulo 1 - Perspectivas de Carreira
 - Módulo 2 - Metodologia
