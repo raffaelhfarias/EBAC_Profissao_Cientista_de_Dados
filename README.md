@@ -1,6 +1,6 @@
 **Atividades do Curso EBAC**
 
-**Profissão: Cientista de Dados**
+[tópico](EBAC_Profissao_Cientista_de_Dados/README.md)**Profissão: Cientista de Dados**
 
 - Módulo 1 - Perspectivas de Carreira
 - Módulo 2 - Metodologia
@@ -22,3 +22,6 @@
 - Módulo 18 - Regressão Logística I
 - Módulo 19 - Streamlit II
 - Módulo 20 - Markdown/Terminal
+
+
+![EBACLogo](https://github.com/raffaelhfarias/EBAC_Profissao_Cientista_de_Dados/blob/main/ebac_logo.png)
