@@ -23,4 +23,6 @@
 - Módulo 19 - Streamlit II
 - Módulo 20 - Markdown/Terminal
 
+> Status do Projeto: Em desenvolvimento :warning:
+
 ![EBACLogo](https://github.com/raffaelhfarias/EBAC_Profissao_Cientista_de_Dados/blob/main/ebac_logo.png)
