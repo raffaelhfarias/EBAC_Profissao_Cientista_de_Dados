@@ -22,6 +22,24 @@
 - Módulo 18 - Regressão Logística I
 - Módulo 19 - Streamlit II
 - Módulo 20 - Markdown/Terminal
+- Módulo 21 - TdD V - SQL
+- Módulo 22 - Descritiva III - Gráficos interativos
+- Módulo 23 - Combinação de modelos I
+- Módulo 24 - Combinação de modelos II
+- Módulo 25 - Cálculo
+- Módulo 26 - Algelin
+- Módulo 27 - PCA
+- Módulo 28 - Streamlit III, IV
+- Módulo 29 - K-means
+- Módulo 30 - Hierárquicos / aglomerativos
+- Módulo 31 - Streamlit V
+- Módulo 32 - Probabilidade
+- Módulo 33 - Inferência
+- Módulo 34 - Regressão III
+- Módulo 35 - Regressão IV
+- Módulo 36 - Descritiva IV - Visualização de dados categorizados
+- Módulo 37 - Regressão Logística II
+- Módulo 38 - Streamlit VI e Pycaret
 
 > Status do Projeto: Em desenvolvimento :warning:
 
