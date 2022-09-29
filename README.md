@@ -10,14 +10,14 @@
 - Módulo 6 - Descritiva I ✅
 - Módulo 7 - Árvores I ✅
 - Módulo 8 - Git/Github ✅
-- Módulo 9 - Agregações e operações em grupos
-- Módulo 10 - Análise descritiva para resposta contínua
-- Módulo 11 - Árvores de regressão
-- Módulo 12 - Árvores I (regressão com Patsy)
-- Módulo 13 - Regressão II
-- Módulo 14 - Scripting
-- Módulo 15 - Streamlit I
-- Módulo 16 - Pandas avançado
+- Módulo 9 - Agregações e operações em grupos ✅
+- Módulo 10 - Análise descritiva para resposta contínua ✅
+- Módulo 11 - Árvores de regressão ✅
+- Módulo 12 - Árvores I (regressão com Patsy) ✅
+- Módulo 13 - Regressão II ✅
+- Módulo 14 - Scripting ✅
+- Módulo 15 - Streamlit I ✅
+- Módulo 16 - Pandas avançado ✅
 - Módulo 17 - Árvores II (classificação)
 - Módulo 18 - Regressão Logística I
 - Módulo 19 - Streamlit II
