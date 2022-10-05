@@ -22,10 +22,10 @@
 - Módulo 18 - Regressão Logística I
 - Módulo 19 - Streamlit II
 - Módulo 20 - Markdown/Terminal
-- Módulo 21 - TdD V - SQL
-- Módulo 22 - Descritiva III - Gráficos interativos
-- Módulo 23 - Combinação de modelos I
-- Módulo 24 - Combinação de modelos II
+- Módulo 21 - TdD V - SQL ✅
+- Módulo 22 - Descritiva III - Gráficos interativos ✅
+- Módulo 23 - Combinação de modelos I ✅
+- Módulo 24 - Combinação de modelos II ✅
 - Módulo 25 - Cálculo
 - Módulo 26 - Algelin
 - Módulo 27 - PCA
