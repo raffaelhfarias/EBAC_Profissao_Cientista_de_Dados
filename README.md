@@ -2,7 +2,7 @@
 
 ## **Profissão: Cientista de Dados**
 
-- Módulo 1 - Perspectivas de Carreira ✅
+- [x] Módulo 1 - Perspectivas de Carreira
 - Módulo 2 - Metodologia ✅
 - Módulo 3 - Elementos básicos de Python e Numpy ✅
 - Módulo 4 - Introdução ao Pandas e carga de dados ✅
