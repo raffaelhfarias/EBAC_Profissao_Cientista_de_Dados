@@ -21,7 +21,32 @@
 <details><summary> ✅ STATUS DOS MÓDULOS</summary>
   
 <p>
+
+<details><summary>Bonus: Python</summary>
+
+<p>
+ 
+- [x] Módulo 1 - Perspectivas de Carreira
+- [x] Módulo 2 - Metodologia
+- [x] Módulo 3 - Elementos básicos de Python e Numpy
+- [x] Módulo 4 - Introdução ao Pandas e carga de dados
+- [x] Módulo 5 - Limpeza e tratamento de dados
+- [x] Módulo 6 - Descritiva I
+- [x] Módulo 7 - Árvores I
+- [x] Módulo 8 - Git/Github
+- [x] Módulo 9 - Agregações e operações em grupos
+- [x] Módulo 10 - Análise descritiva para resposta contínua
+
+</p>
   
+</details>
+
+<p>
+
+<details><summary>Cientista de Dados</summary> 
+
+<p>
+
 - [x] Módulo 1 - Perspectivas de Carreira
 - [x] Módulo 2 - Metodologia
 - [x] Módulo 3 - Elementos básicos de Python e Numpy
@@ -61,8 +86,9 @@
 - [ ] Módulo 37 - Regressão Logística II
 - [ ] Módulo 38 - Streamlit VI e Pycaret
 
-</p>  
-</details>
+  </p>  
+
+  </details>
 
 > Status do Projeto: Em desenvolvimento :warning:
 
