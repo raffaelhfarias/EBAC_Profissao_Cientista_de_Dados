@@ -1,4 +1,4 @@
-<details><summary>PROGRAMA DO CURSO</summary>
+<details><summary>Programa do Curso</summary>
   
 <p>
   
@@ -18,11 +18,11 @@
   
 </details>
 
-<details><summary>STATUS DOS MÓDULOS</summary>
+<details><summary>Status dos Módulos</summary>
   
 <p>
 
-<details><summary>Bonus: Python</summary>
+<details><summary>Bonus: Python ✅</summary>
 
 <p>
  
@@ -43,7 +43,7 @@
 
 <p>
 
-<details><summary>Cientista de Dados</summary> 
+<details><summary>Cientista de Dados ⚠️</summary>
 
 <p>
 
@@ -90,7 +90,7 @@
 
 </details>
 
-<details><summary>Bônus: SQL para Análise de Dados</summary>
+<details><summary>Bônus: SQL para Análise de Dados ⚠️</summary>
 
 <p>
  
