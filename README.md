@@ -90,6 +90,24 @@
 
 </details>
 
+<details><summary>Bônus: SQL para Análise de Dados</summary>
+
+<p>
+ 
+- [ ] Módulo 0 - Introdução SQL
+- [ ] Módulo 1 - Base de dados & Linguagem SQL
+- [ ] Módulo 2 - Trabalhando com Tabelas
+- [ ] Módulo 3 - Selecionando & Ordenando
+- [ ] Módulo 4 - Filtrando & Seleção Condicional
+- [ ] Módulo 5 - Agregações
+- [ ] Módulo 6 - Trabalhando com Múltiplas Tabelas
+- [ ] Módulo 7 - SQL Avançado
+- [ ] Módulo 8 - Projeto Final
+
+</p>
+  
+</details>
+
 </details>
 
 ![EBACLogo](https://github.com/raffaelhfarias/EBAC_Profissao_Cientista_de_Dados/blob/main/ebac_logo.png)
