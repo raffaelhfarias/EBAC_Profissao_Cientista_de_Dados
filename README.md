@@ -18,7 +18,7 @@
   
 </details>
 
-<details><summary> ✅ STATUS DOS MÓDULOS</summary>
+<details><summary>STATUS DOS MÓDULOS</summary>
   
 <p>
 
@@ -86,10 +86,10 @@
 - [ ] Módulo 37 - Regressão Logística II
 - [ ] Módulo 38 - Streamlit VI e Pycaret
 
-  </p>  
+</p>
 
-  </details>
+</details>
 
-> Status do Projeto: Em desenvolvimento :warning:
+</details>
 
 ![EBACLogo](https://github.com/raffaelhfarias/EBAC_Profissao_Cientista_de_Dados/blob/main/ebac_logo.png)
