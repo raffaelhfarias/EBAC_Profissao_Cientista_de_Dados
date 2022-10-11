@@ -84,15 +84,15 @@ Projetos desenvolvidos durante o Curso: Profissão Cientista de Dados na EBAC.
 - [x] Módulo 26 - Algelin
 - [x] Módulo 27 - PCA
 - [ ] Módulo 28 - Streamlit III, IV
-- [ ] Módulo 29 - K-means
-- [ ] Módulo 30 - Hierárquicos / aglomerativos
-- [ ] Módulo 31 - Streamlit V
-- [ ] Módulo 32 - Probabilidade
-- [ ] Módulo 33 - Inferência
-- [ ] Módulo 34 - Regressão III
-- [ ] Módulo 35 - Regressão IV
-- [ ] Módulo 36 - Descritiva IV - Visualização de dados categorizados
-- [ ] Módulo 37 - Regressão Logística II
+- [X] Módulo 29 - K-means
+- [X] Módulo 30 - Hierárquicos / aglomerativos
+- [X] Módulo 31 - Streamlit V
+- [X] Módulo 32 - Probabilidade
+- [X] Módulo 33 - Inferência
+- [X] Módulo 34 - Regressão III
+- [X] Módulo 35 - Regressão IV
+- [X] Módulo 36 - Descritiva IV - Visualização de dados categorizados
+- [X] Módulo 37 - Regressão Logística II
 - [ ] Módulo 38 - Streamlit VI e Pycaret
 
 </p>
