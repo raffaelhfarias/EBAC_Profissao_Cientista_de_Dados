@@ -34,16 +34,17 @@ Projetos desenvolvidos durante o Curso: Profissão Cientista de Dados na EBAC.
 
 <p>
  
-- [x] Módulo 1 - Perspectivas de Carreira
-- [x] Módulo 2 - Metodologia
-- [x] Módulo 3 - Elementos básicos de Python e Numpy
-- [x] Módulo 4 - Introdução ao Pandas e carga de dados
-- [x] Módulo 5 - Limpeza e tratamento de dados
-- [x] Módulo 6 - Descritiva I
-- [x] Módulo 7 - Árvores I
-- [x] Módulo 8 - Git/Github
-- [x] Módulo 9 - Agregações e operações em grupos
-- [x] Módulo 10 - Análise descritiva para resposta contínua
+- [x] Módulo 0 - Introdução ao curso Python para Análise de Dados
+- [x] Módulo 1 - Python: Variáveis & Tipos de Dados
+- [x] Módulo 2 - Python: Estruturas de Dados
+- [x] Módulo 3 - Python: Fluxo Condicional & Repetição
+- [x] Módulo 4 - Python: Arquivos & Funções
+- [x] Módulo 5 - Python: Programação Funcional
+- [x] Módulo 6 - Python: Programação Orientada a Objetos
+- [x] Módulo 7 - Python: Módulos & Pacotes
+- [x] Módulo 8 - Python: Tratamento de Erros
+- [x] Módulo 9 - Python: Scripting
+- [x] Módulo 10 - Python: Projeto Final
 
 </p>
   
