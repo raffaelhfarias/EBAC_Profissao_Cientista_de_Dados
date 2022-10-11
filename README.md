@@ -1,3 +1,9 @@
+Pix para ajudar caso tenha sido útil: 
+
+- Chave: raffaelhfarias@hotmail.com
+- Nome: Raffael Henrique Farias do Nascimento
+- Instituição: PicPay
+
 Projetos desenvolvidos durante o Curso: Profissão Cientista de Dados na EBAC.
 
 <details><summary>Programa do Curso</summary>
