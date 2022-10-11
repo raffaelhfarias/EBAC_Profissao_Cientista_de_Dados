@@ -30,7 +30,7 @@ Projetos desenvolvidos durante o Curso: Profissão Cientista de Dados na EBAC.
   
 <p>
 
-<details><summary>Bonus: Python ✅</summary>
+<details><summary>Bônus: Python ✅</summary>
 
 <p>
  
