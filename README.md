@@ -1,4 +1,4 @@
-Pix para ajudar caso tenha sido útil: 
+Pix para contribuição caso tenha sido útil: 
 
 - Chave: raffaelhfarias@hotmail.com
 - Nome: Raffael Henrique Farias do Nascimento
