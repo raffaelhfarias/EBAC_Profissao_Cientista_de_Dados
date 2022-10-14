@@ -74,7 +74,7 @@ Projetos desenvolvidos durante o Curso: Profissão Cientista de Dados na EBAC.
 - [x] Módulo 16 - Pandas avançado
 - [x] Módulo 17 - Árvores II (classificação)
 - [x] Módulo 18 - Regressão Logística I
-- [ ] Módulo 19 - Streamlit II
+- [x] Módulo 19 - Streamlit II
 - [x] Módulo 20 - Markdown/Terminal
 - [x] Módulo 21 - TdD V - SQL
 - [x] Módulo 22 - Descritiva III - Gráficos interativos
@@ -83,16 +83,16 @@ Projetos desenvolvidos durante o Curso: Profissão Cientista de Dados na EBAC.
 - [x] Módulo 25 - Cálculo
 - [x] Módulo 26 - Algelin
 - [x] Módulo 27 - PCA
-- [ ] Módulo 28 - Streamlit III, IV
-- [X] Módulo 29 - K-means
-- [X] Módulo 30 - Hierárquicos / aglomerativos
-- [X] Módulo 31 - Streamlit V
-- [X] Módulo 32 - Probabilidade
-- [X] Módulo 33 - Inferência
-- [X] Módulo 34 - Regressão III
-- [X] Módulo 35 - Regressão IV
-- [X] Módulo 36 - Descritiva IV - Visualização de dados categorizados
-- [X] Módulo 37 - Regressão Logística II
+- [x] Módulo 28 - Streamlit III, IV
+- [x] Módulo 29 - K-means
+- [x] Módulo 30 - Hierárquicos / aglomerativos
+- [x] Módulo 31 - Streamlit V
+- [x] Módulo 32 - Probabilidade
+- [x] Módulo 33 - Inferência
+- [x] Módulo 34 - Regressão III
+- [x] Módulo 35 - Regressão IV
+- [x] Módulo 36 - Descritiva IV - Visualização de dados categorizados
+- [x] Módulo 37 - Regressão Logística II
 - [ ] Módulo 38 - Streamlit VI e Pycaret
 
 </p>
