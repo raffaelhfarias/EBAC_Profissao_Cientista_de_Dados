@@ -1,4 +1,4 @@
-Projetos desenvolvidos durante o Curso: Profissão Cientista de Dados na EBAC.
+Exercícios feitos durante o Curso: Profissão Cientista de Dados na EBAC.
 
 <details><summary>Programa do Curso</summary>
   
