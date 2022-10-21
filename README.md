@@ -5,7 +5,7 @@ Exercícios feitos durante o Curso: Profissão Cientista de Dados na EBAC.
 <p>
   
 1. **Curso Introdutório**: Python para Análise de Dados (10 módulos)
-2. **Cientista de Dados** (41 módulos)  
+2. **Cientista de Dados** (38 módulos)  
    * Introdução à ciência de dados e suas ferramentas
    * Etapas do processo de Mineração de Dados (Data Mining)  
    * Modelos de árvores de decisão em ciência de dados  
