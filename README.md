@@ -99,19 +99,19 @@ Projetos desenvolvidos durante o Curso: Profissão Cientista de Dados na EBAC.
 
 </details>
 
-<details><summary>Bônus: SQL para Análise de Dados ⚠️</summary>
+<details><summary>Bônus: SQL para Análise de Dados ✅</summary>
 
 <p>
  
-- [ ] Módulo 0 - Introdução SQL
-- [ ] Módulo 1 - Base de dados & Linguagem SQL
-- [ ] Módulo 2 - Trabalhando com Tabelas
-- [ ] Módulo 3 - Selecionando & Ordenando
-- [ ] Módulo 4 - Filtrando & Seleção Condicional
-- [ ] Módulo 5 - Agregações
-- [ ] Módulo 6 - Trabalhando com Múltiplas Tabelas
-- [ ] Módulo 7 - SQL Avançado
-- [ ] Módulo 8 - Projeto Final
+- [x] Módulo 0 - Introdução SQL
+- [x] Módulo 1 - Base de dados & Linguagem SQL
+- [x] Módulo 2 - Trabalhando com Tabelas
+- [x] Módulo 3 - Selecionando & Ordenando
+- [x] Módulo 4 - Filtrando & Seleção Condicional
+- [x] Módulo 5 - Agregações
+- [x] Módulo 6 - Trabalhando com Múltiplas Tabelas
+- [x] Módulo 7 - SQL Avançado
+- [x] Módulo 8 - Projeto Final
 
 </p>
   
