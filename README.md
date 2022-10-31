@@ -46,7 +46,7 @@ Exercícios feitos durante o Curso: Profissão Cientista de Dados na EBAC.
 
 <p>
 
-<details><summary>Cientista de Dados ⚠️</summary>
+<details><summary>Cientista de Dados ✅</summary>
 
 <p>
 
@@ -87,7 +87,7 @@ Exercícios feitos durante o Curso: Profissão Cientista de Dados na EBAC.
 - [x] Módulo 35 - Regressão IV
 - [x] Módulo 36 - Descritiva IV - Visualização de dados categorizados
 - [x] Módulo 37 - Regressão Logística II
-- [ ] Módulo 38 - Streamlit VI e Pycaret
+- [x] Módulo 38 - Streamlit VI e Pycaret
 
 </p>
 
