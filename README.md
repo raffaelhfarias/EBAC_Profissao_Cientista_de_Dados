@@ -1,6 +1,6 @@
 Exercícios feitos durante o Curso: Profissão Cientista de Dados na EBAC.
 
-<details><summary>Programa do Curso</summary>
+*Programa do Curso*
   
 <p>
   
@@ -18,9 +18,9 @@ Exercícios feitos durante o Curso: Profissão Cientista de Dados na EBAC.
   
 </p>
   
-</details>
 
-<details><summary>Status dos Módulos</summary>
+
+*Status dos Módulos*
   
 <p>
 
